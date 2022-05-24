@@ -5,8 +5,8 @@ So it will need you to host a Redis instance somewhere
 
 ## Basic dependencies
 Make sure you have these installed in your computer for development
-1. Node.js
-2. Yarn (or npm)
+1. Node.js (v12 or higher)
+2. Yarn package manager
 
 ## How to Configure
 1. run `yarn install` to install dependencies.
