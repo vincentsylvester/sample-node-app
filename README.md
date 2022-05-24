@@ -1,11 +1,12 @@
 # sample-node-app
 Sample node js app 
 This is just a basic app to test connection with Redis
+
 So it will need you to host a Redis instance somewhere
 
 ## Basic dependencies
 Make sure you have these installed in your computer for development
-1. Node.js (v12 or higher)
+1. Node.js (v14 or higher)
 2. Yarn package manager
 
 ## How to Configure
