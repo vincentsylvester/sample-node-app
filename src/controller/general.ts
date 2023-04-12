@@ -5,7 +5,7 @@ import { redisConfig } from '../config/redis';
 
 export default class GeneralController {
   public static async helloWorld(ctx: BaseContext) {
-    ctx.body = 'Hello World';
+    ctx.body = 'Hello Dunia';
   }
 
   public static async getKey(ctx: BaseContext) {
